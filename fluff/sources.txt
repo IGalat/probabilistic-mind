@@ -1,4 +1,5 @@
 http://acritch.com/credence-game/ - original game
 anna@rationality.org - email of https://futureoflife.org/ai-researcher-anna-salamon/ director of CFAR
 https://www.lesswrong.com/posts/Ckg5JS8E5QXYhM89r/credence-calibration-game-faq - many good ideas about the game, and potential collaborators(7y ago posted though)
-https://en.wikipedia.org/wiki/SuperMemo - can potentially use in game
+https://en.wikipedia.org/wiki/SuperMemo - can potentially use algorithm in game
+https://en.wikipedia.org/wiki/Spaced_repetition#Software - also usable algorithm
