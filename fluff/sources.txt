@@ -3,3 +3,4 @@ anna@rationality.org - email of https://futureoflife.org/ai-researcher-anna-sala
 https://www.lesswrong.com/posts/Ckg5JS8E5QXYhM89r/credence-calibration-game-faq - many good ideas about the game, and potential collaborators(7y ago posted though)
 https://en.wikipedia.org/wiki/SuperMemo - can potentially use algorithm in game
 https://en.wikipedia.org/wiki/Spaced_repetition#Software - also usable algorithm
+https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook  - good description of offline functionality for WPA
