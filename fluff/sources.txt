@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/SuperMemo - can potentially use algorithm in game
 https://en.wikipedia.org/wiki/Spaced_repetition#Software - also usable algorithm
 
 
+
 Technical
 
 https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook  - good description of offline functionality for WPA
