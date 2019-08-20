@@ -14,3 +14,12 @@ Technical
 
 https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook  - good description of offline functionality for WPA
 https://github.com/philschatz/project-bot - automation for git repo
+
+
+
+Scoring rules:
+brier score
+auc
+mse
+log loss
+cross entropy
