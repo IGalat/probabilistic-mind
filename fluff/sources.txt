@@ -17,7 +17,6 @@ https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookb
 https://github.com/philschatz/project-bot - automation for git repo
 
 
-
 Scoring rules:
 brier score
 auc
