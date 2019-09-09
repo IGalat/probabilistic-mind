@@ -1,0 +1,6 @@
+To run with service-worker:
+npm install -g http-server-spa
+npm run start-prod
+
+To run without service-worker:
+ng serve
