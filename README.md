@@ -35,11 +35,11 @@ These are optional and will not be optimized for if it interferes with primary g
 * Help you show off in an aspect that matters! Publish your results on facebook, twitter, instagram, vine, pinterest, igmur, reddit, linkedin, blogpost! But don't limit yourself - print it and put in a frame next to your awards and certificates!
 
 # Technical goals
-* Cross-platform app, accessible via https link, and possibly as android/desltop app later
-* Full offline functionality for the player
+* Cross-platform app, accessible via https link, and possibly as android/desktop app later
+* Full offline functionality
 * Fast enough - no lag during q&a (main part of the app)
 * User-contributed questions, because just devs can never fill large enough bank
 
 ### Secondary technical goals
 * Themes
-* Localization - may be tough and not very implementable
+* Localization - may be tough and not easily implementable
